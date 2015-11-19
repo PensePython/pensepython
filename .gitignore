@@ -1,0 +1,9 @@
+.DS_Store
+pensePython/*~
+static/*
+*~
+*.out
+*.out_py3
+*.pyc
+*.pyo
+*.aux
